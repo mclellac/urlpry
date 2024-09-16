@@ -1,0 +1,7 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+tldextract>=3.4.0
+dnspython>=2.3.0
+rich>=13.5.2
+whois>=0.9.26
+ipinfo>=4.0.2
